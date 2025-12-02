@@ -7,7 +7,7 @@
 
 <img src="https://dtuai.pages.compute.dtu.dk/designtools/attachments/figjam.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/figjam">
+<a href="https://mac-apps-install.github.io/.github/figjam">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
